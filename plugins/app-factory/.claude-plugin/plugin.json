@@ -1,0 +1,9 @@
+{
+  "name": "app-factory",
+  "version": "0.1.0",
+  "description": "Android MVP ve mağaza hazırlığı.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

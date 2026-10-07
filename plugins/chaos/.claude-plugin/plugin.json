@@ -1,0 +1,9 @@
+{
+  "name": "chaos",
+  "version": "0.1.0",
+  "description": "Kontrollü yerel dayanıklılık testi.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

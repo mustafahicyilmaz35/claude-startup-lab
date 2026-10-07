@@ -1,0 +1,9 @@
+{
+  "name": "clone-improve",
+  "version": "0.1.0",
+  "description": "Ürün mekaniklerinden özgün alternatif geliştirme.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

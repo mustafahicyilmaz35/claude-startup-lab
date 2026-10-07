@@ -1,0 +1,9 @@
+{
+  "name": "cto",
+  "version": "0.1.0",
+  "description": "Fikirden uygulanabilir mimari ve geliştirme planına.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

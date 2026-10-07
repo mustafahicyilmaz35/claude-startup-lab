@@ -1,0 +1,9 @@
+{
+  "name": "time-machine",
+  "version": "0.1.0",
+  "description": "Büyüme ve değişim risklerini değerlendirme.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

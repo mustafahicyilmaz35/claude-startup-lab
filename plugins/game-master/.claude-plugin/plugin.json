@@ -1,0 +1,9 @@
+{
+  "name": "game-master",
+  "version": "0.1.0",
+  "description": "Doğrulanmış geliştirme işlerini RPG görevlerine çevirme.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

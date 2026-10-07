@@ -1,0 +1,9 @@
+{
+  "name": "solo-startup",
+  "version": "0.1.0",
+  "description": "Rol bazlı ürün geliştirme koordinasyonu.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

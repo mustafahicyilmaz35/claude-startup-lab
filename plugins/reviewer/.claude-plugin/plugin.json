@@ -1,0 +1,9 @@
+{
+  "name": "reviewer",
+  "version": "0.1.0",
+  "description": "Kanıta dayalı kod incelemesi ve yayın kararı.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

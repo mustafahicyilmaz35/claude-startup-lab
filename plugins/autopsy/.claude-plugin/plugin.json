@@ -1,0 +1,9 @@
+{
+  "name": "autopsy",
+  "version": "0.1.0",
+  "description": "Eski projeye onarım veya yeniden yazma kararı.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}

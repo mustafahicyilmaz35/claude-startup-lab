@@ -1,0 +1,58 @@
+{
+  "name": "startup-lab",
+  "owner": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "plugins": [
+    {
+      "name": "cto",
+      "source": "./plugins/cto",
+      "description": "Fikirden uygulanabilir mimari ve geliştirme planına."
+    },
+    {
+      "name": "reviewer",
+      "source": "./plugins/reviewer",
+      "description": "Kanıta dayalı kod incelemesi ve yayın kararı."
+    },
+    {
+      "name": "app-factory",
+      "source": "./plugins/app-factory",
+      "description": "Android MVP ve mağaza hazırlığı."
+    },
+    {
+      "name": "autopsy",
+      "source": "./plugins/autopsy",
+      "description": "Eski projeye onarım veya yeniden yazma kararı."
+    },
+    {
+      "name": "time-machine",
+      "source": "./plugins/time-machine",
+      "description": "Büyüme ve değişim risklerini değerlendirme."
+    },
+    {
+      "name": "chaos",
+      "source": "./plugins/chaos",
+      "description": "Kontrollü yerel dayanıklılık testi."
+    },
+    {
+      "name": "detective",
+      "source": "./plugins/detective",
+      "description": "Bug kök nedeni ve dar kapsamlı düzeltme."
+    },
+    {
+      "name": "solo-startup",
+      "source": "./plugins/solo-startup",
+      "description": "Rol bazlı ürün geliştirme koordinasyonu."
+    },
+    {
+      "name": "clone-improve",
+      "source": "./plugins/clone-improve",
+      "description": "Ürün mekaniklerinden özgün alternatif geliştirme."
+    },
+    {
+      "name": "game-master",
+      "source": "./plugins/game-master",
+      "description": "Doğrulanmış geliştirme işlerini RPG görevlerine çevirme."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "detective",
+  "version": "0.1.0",
+  "description": "Bug kök nedeni ve dar kapsamlı düzeltme.",
+  "author": {
+    "name": "Mustafa Hiçyılmaz"
+  },
+  "license": "MIT"
+}
